@@ -1,0 +1,28 @@
+.khung{
+  border: 3px solid black;
+  padding: 15px;
+width: 400px;
+height: 500px;
+background-color: rgb(242, 242, 248);
+}
+.trong {
+  width: 390px;
+  background-color: #c1bafc;
+  border-radius: 10px;
+}
+.khung1{
+  padding: 10px;
+  
+}
+.chu{
+  position: absolute;
+  right: 350px;
+  
+}
+.hi{
+  letter-spacing: 2px;
+}
+.dong{
+  letter-spacing: 10px;
+  border: 3px solid beige;
+}
